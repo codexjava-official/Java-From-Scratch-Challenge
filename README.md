@@ -185,27 +185,25 @@ Day-01_Introduction/
 
 ---
 
-# 📂 Repository Structure
+# 📂 Course Structure
 
 ```text
 Java-From-Scratch-Challenge
 │
-├── Day-00_Setup_Guide
-├── Day-01_Introduction
-├── Day-02_Control_Flow
-├── Day-03_Loops
+├── 01-Beginner-Easy/
+│   ├── Q001_Basics_And_Loops/
+│   ├── Q002_Basics_And_Loops/
+│   └── ...
 │
-├── Day-26_OOP
-├── Day-27_Polymorphism
-├── Day-28_Abstraction
+├── 02-Intermediate-Medium/
+│   ├── Q012_Basics_And_Loops/
+│   ├── Q019_Arrays_And_Matrices/
+│   └── ...
 │
-├── Day-51_Collections
-├── Day-52_HashMap
-├── Day-53_Exception_Handling
-│
-├── Day-76_Searching
-├── Day-85_Project
-├── Day-100_Capstone
+├── 03-Advanced-Hard/
+│   ├── Q034_Arrays_And_Matrices/
+│   ├── Q045_Strings_Handling/
+│   └── ...
 │
 ├── CONTRIBUTING.md
 ├── LICENSE
